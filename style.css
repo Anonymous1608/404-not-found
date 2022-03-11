@@ -74,7 +74,6 @@ footer{
     .content-container{
         flex-direction: column;
         justify-content: center;
-        align-items: center;
     }
     .img-content img {
         width: 286px;
